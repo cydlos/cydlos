@@ -4,6 +4,6 @@
 
 <h3 align="left">My stats:</h3>
 <div style="display: inline;">
-    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=cydlos&count_private=true?&bg_color=C6DDF0&text_color=39393A&title_color=353D2F"></a> 	<img height="164em" align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=cydlos&layout=compact&bg_color=C6DDF0&text_color=39393A&title_color=353D2F"></a>
+    <img height="154em" src="https://github-readme-stats.vercel.app/api?username=cydlos&count_private=true?&bg_color=C6DDF0&text_color=39393A&title_color=353D2F"></a> 	<img height="154em" align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=cydlos&layout=compact&bg_color=C6DDF0&text_color=39393A&title_color=353D2F"></a>
 </div>
   

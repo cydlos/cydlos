@@ -6,13 +6,14 @@
 </center>
     </div>
    <div style="display: inline_block" align="right">
-      <img align="center" alt="Git" height="30" width="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
-      <img align="center" alt="Ruby" height="30" width="20" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg">
-      <img align="center" alt="Rails" height="30" width="20" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg">
-      <img align="center" alt="CSS" height="30" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-      <img align="center" alt="HTML" height="30" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="SASS" height="30" width="20" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-      <img align="center" alt="JS" height="30" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" width="28" height="28" alt="Ruby" /></a>
+      <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" width="28" height="28" alt="Rails" /></a>
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="28" height="28" alt="Python" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="28" height="28" alt="HTML5" /></a>
+      <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="28" height="28" alt="CSS3" /></a>
+      <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="28" height="28" alt="Sass" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="28" height="28" alt="JavaScript" /></a>
+      <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="28" height="28" alt="Webpack" /></a
     </div>
 </div>
 

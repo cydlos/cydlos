@@ -1,6 +1,6 @@
 * ### My Stats
 <div style="display: inline_block">
-    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=cydlos&count_private=true?&layout=compact&bg_color=30,fc4a1a,f7b733&title_color=000000&text_color=000000"></a> 	<img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=cydlos&layout=compact&bg_color=30,fc4a1a,f7b733&title_color=000000&text_color=000000"></a>
+    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=cydlos&count_private=true?&layout=compact&bg_color=30,0052D4,4364F7,6FB1FC&title_color=8bb6d7&text_color=fff"></a> 	<img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=cydlos&layout=compact&bg_color=0052D4,4364F7,6FB1FC&title_color=8bb6d7&text_color=fff"></a>
 </div>
   
 * ### My Skills

@@ -1,6 +1,6 @@
 ### Hey, I'm Cyd! 😀
 
-I have a degree in History & a master's in Ancient History, and I worked for some time as a researcher. I speak Portuguese-Br, English, French & I've been studying/trying to learn German for the last 2 years (yes, I started studying 🇩🇪 during the pandemics).
+I have a degree in History & a master's in Ancient History, and I worked for some time as a researcher. I speak Portuguese-Br, English, Spanish, French & I've been studying/trying to learn German for the last 2 years (yes, I started studying 🇩🇪 during the pandemics).
 
 In 2020, I started to learn Python on my own, but it wasn't until 2022, being part of the batch #946 in Le Wagon, that I effectively decided for my career as a webdev and started learning new skills as a developer (see <a href="https://github.com/cydlos/cydlos/edit/main/README.md#my-skills">My Skills</a>).<br><br>
   

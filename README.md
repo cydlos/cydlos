@@ -2,7 +2,7 @@
 
 I have a degree in History & a master's in Ancient History, and I worked for some time as a researcher. I speak Portuguese-Br, English, French & I've been studying/trying to learn German for the last 2 years (yes, I started studying 🇩🇪 during the pandemics).
 
-In 2020, I started to learn programming (Python) on my own, but it wasn't until 2022, being part of batch #946 in Le Wagon, that I effectively decided for my career as a webdev and started learning new skills as a developer (see <a href="https://github.com/cydlos/cydlos/edit/main/README.md#my-skills">"My Skills"</a>).<br><br>
+In 2020, I started to learn Python on my own, but it wasn't until 2022, being part of the batch #946 in Le Wagon, that I effectively decided for my career as a webdev and started learning new skills as a developer (see <a href="https://github.com/cydlos/cydlos/edit/main/README.md#my-skills">"My Skills"</a>).<br><br>
   
 ## My Skills
    [<img align="left" alt="Cyd | terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]

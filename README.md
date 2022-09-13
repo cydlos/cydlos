@@ -5,18 +5,18 @@ I have a degree in History & a master's in Ancient History, and I worked for som
 In 2020, I started to learn Python on my own, but it wasn't until 2022, being part of the batch #946 in Le Wagon, that I effectively decided for my career as a webdev and started learning new skills as a developer (see <a href="https://github.com/cydlos/cydlos/edit/main/README.md#my-skills">My Skills</a>).<br><br>
   
 ## My Skills
-   [<img align="left" alt="Cyd | terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+   [<img align="left" alt="Cyd | terminal" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
    [<img align="left" alt="Cyd | vscode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
    [<img align="left" alt="Cyd | ruby" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-plain.svg" />][ruby]
    [<img align="left" alt="Cyd | rails" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-plain.svg" />][rails]
    [<img align="left" alt="Cyd | python" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" />][python]
    [<img align="left" alt="Cyd | sqlite" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sqlite]
     [<img align="left" alt="Cyd | postgre" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="28" height="28" alt="postgresql" />][postgre]
-    [<img align="left" alt="Cyd | html5" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="28" height="28" alt="html5" />][html5]
-    [<img align="left" alt="Cyd | css3" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="28" height="28" alt="css3" />][css3]
-    [<img align="left" alt="Cyd | sass" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="28" height="28" alt="sass" />][sass]
-    [<img align="left" alt="Cyd | js" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="28" height="28" alt="js" />][js]
-    [<img align="left" alt="Cyd | webpack" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="28" height="28" alt="webpack" />][webpack] 
+    [<img align="left" alt="Cyd | html5" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="html5" />][html5]
+    [<img align="left" alt="Cyd | css3" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="css3" />][css3]
+    [<img align="left" alt="Cyd | sass" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="sass" />][sass]
+    [<img align="left" alt="Cyd | js" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="js" />][js]
+    [<img align="left" alt="Cyd | webpack" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="webpack" />][webpack] 
     <br>
    
  ## You Can Also Find Me...      

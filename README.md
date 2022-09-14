@@ -1,7 +1,7 @@
 # [![banner cyd](https://github.com/cydlos/cydlos/blob/main/banner.png)](https://libricomutatio.herokuapp.com/)
 ### Hello, world! 🌎
 
->My journey as a webdev started in 2019, when I decided to learn Python by my own. But it was not until 2022, being part of the batch #946 in Le Wagon Full-Stack Development Bootcamp, that I effectivelly decided for my carreer as a webdeveloper and started learning new skills. 
+>My journey as a webdev started in 2019, when I decided to learn Python by my own. But it was not until 2022, being part of the batch #946 in Le Wagon Full-Stack Development Bootcamp, that I effectively decided for my carreer as a webdeveloper and started learning new skills. 
 >
 >I also have a degree in History & a master's in Ancient History, and I worked for some time as a researcher (and I still am, Stackoverflow is my best friend 😁). I speak Portuguese 🇧🇷, English 🇺🇸, Spanish 🇪🇸, French 🇫🇷 & I've been studying/trying to learn German 🇩🇪 for the last 2 years.
 >

@@ -1,8 +1,9 @@
-### Hey, I'm Cyd! 😀
+# [![banner cyd](https://github.com/cydlos/cydlos/blob/main/banner.png)](https://libricomutatio.herokuapp.com/)
+### Hello, world! 🌎
 
-I have a degree in History & a master's in Ancient History, and I worked for some time as a researcher. I speak Portuguese 🇧🇷, English 🇺🇸, Spanish 🇪🇸, French 🇫🇷 & I've been studying/trying to learn German 🇩🇪 for the last 2 years (yes, I started studying during the pandemics). In 2020, I started to learn Python on my own, but it wasn't until 2022, being part of the batch #946 in Le Wagon, that I effectively decided for my career as a webdev and started learning new skills as a developer.
-
-I'm always willing (and eager!) to learn new skills — for the pleasure of learning as much as for how useful they can be.
+>I have a degree in History & a master's in Ancient History, and I worked for some time as a researcher. I speak Portuguese 🇧🇷, English 🇺🇸, Spanish 🇪🇸, French 🇫🇷 & I've been studying/trying to learn German 🇩🇪 for the last 2 years (yes, I started studying during the pandemics). In 2020, I started to learn Python on my own, but it wasn't until 2022, being part of the batch #946 in Le Wagon, that I effectively decided for my career as a webdev and started learning new skills as a developer.
+>
+>I'm always willing (and eager!) to learn new skills — for the pleasure of learning as much as for how useful they can be.
 
 <br><br>
   
@@ -19,18 +20,21 @@ I'm always willing (and eager!) to learn new skills — for the pleasure of lear
     [<img align="left" alt="Cyd | sass" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="sass" />][sass]
     [<img align="left" alt="Cyd | js" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="js" />][js]
     [<img align="left" alt="Cyd | webpack" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="webpack" />][webpack] 
+    [<img align="left" alt="Cyd | yarn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" />][yarn]
+    [<img align="left" alt="Cyd | node" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" />][node]
+    [<img align="left" alt="Cyd | bootstrap" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" />][bootstrap]
+    [<img align="left" alt="Cyd | figma" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" />][figma]
     <br>
    
  ## You Can Also Find Me...      
-   [<img align="left" alt="Cyd | email" width="26px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />][email]
    [<img align="left" alt="Cyd | linkedin" width="22px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
    [<img align="left" alt="Cyd | instagram" width="22px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />][instagram]
    [<img align="left" alt="Cyd | reddit" width="22px" src="https://camo.githubusercontent.com/521640dc2dba501cde1805c0a42cecf5ccf7fc1378f542fe9fda756fb36add25/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265646469742e737667" />][reddit]
-   <br><br><hr>
+   <br><br>
    
    ## My Stats
 <div style="display: inline_block">
-    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=cydlos&count_private=true?&layout=compact&bg_color=30,0052D4,4364F7,6FB1FC&title_color=d3f2ee&text_color=fff"></a> 	<img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=cydlos&layout=compact&bg_color=0052D4,4364F7,6FB1FC&title_color=d3f2ee&text_color=fff"></a>
+    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=cydlos&count_private=true?&layout=compact&bg_color=30,8E2DE2,4A00E0&title_color=ffbf00&text_color=fff"></a> 	
 </div>
     
 [terminal]: https://www.zsh.org/
@@ -45,9 +49,12 @@ I'm always willing (and eager!) to learn new skills — for the pleasure of lear
 [sass]: https://sass-lang.com/
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [webpack]: https://webpack.js.org/ 
+[yarn]: https://yarnpkg.com/
+[node]: https://nodejs.org/
+[bootstrap]: https://getbootstrap.com/
+[figma]: https://www.figma.com/
     
-[email]: mailTo:losekann.c@gmail.com
-[linkedin]: https://www.linkedin.com/in/cyd-losekann-882832155
+[linkedin]: https://www.linkedin.com/in/cyd87/
 [instagram]: https://www.instagram.com/cydlsk/
 [reddit]: https://www.reddit.com/user/crescenzio_ronquetto
 

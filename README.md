@@ -34,10 +34,6 @@
    [<img align="left" alt="Cyd | reddit" width="22px" src="https://camo.githubusercontent.com/521640dc2dba501cde1805c0a42cecf5ccf7fc1378f542fe9fda756fb36add25/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265646469742e737667" />][reddit]
    <br><br>
    
-   ## My Stats
-<div style="display: inline_block">
-    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=cydlos&count_private=true?&layout=compact&bg_color=30,8E2DE2,4A00E0&title_color=ffbf00&text_color=fff"></a> 	
-</div>
     
 [terminal]: https://www.zsh.org/
 [vscode]: https://code.visualstudio.com/

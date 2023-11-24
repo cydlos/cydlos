@@ -1,4 +1,4 @@
-# [![banner cyd](https://github.com/cydlos/cydlos/blob/main/banner.png)](https://libricomutatio.herokuapp.com/)
+
 ### Hello, world! 🌎
 
 >My journey as a webdev started in 2019, when I decided to learn Python on my own. But it was not until 2022, being part of the batch #946 in Le Wagon Full-Stack Development Bootcamp, that I effectively decided for my career as a webdeveloper and started learning new skills. 

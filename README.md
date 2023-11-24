@@ -1,14 +1,3 @@
-
-### Hello, world! 🌎
-
->My journey as a webdev started in 2019, when I decided to learn Python on my own. But it was not until 2022, being part of the batch #946 in Le Wagon Full-Stack Development Bootcamp, that I effectively decided for my career as a webdeveloper and started learning new skills. 
->
->I also have a degree in History & a master's in Ancient History, and I worked for some time as a researcher (and I still am, Stackoverflow is my best friend 😁). I speak Portuguese 🇧🇷, English 🇺🇸, Spanish 🇪🇸, French 🇫🇷 & I've been studying/trying to learn German 🇩🇪 for the last 2 years.
->
->I'm always willing (and eager!) to learn new skills — for the pleasure of learning as much as for how useful they can be — and I love how coding sparks my creativity! 
-
-<br><br>
-  
 ## My skills
    [<img align="left" alt="Cyd | terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
    [<img align="left" alt="Cyd | vscode" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]

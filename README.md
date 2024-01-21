@@ -18,9 +18,9 @@
     <br>
    
  ## You can also find me here:      
-   [<img align="left" alt="Cyd | linkedin" width="22px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
+   [<img align="left" alt="Cyd | linkedin" width="26px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" />][linkedin]
 
-   [<img align="left" alt="Cyd | reddit" width="22px" src="https://camo.githubusercontent.com/521640dc2dba501cde1805c0a42cecf5ccf7fc1378f542fe9fda756fb36add25/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265646469742e737667" />][reddit]
+   [<img align="left" alt="Cyd | reddit" width="26px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5f2341f8-fcf0-4158-be94-5c3a374e71e7/d8w5gj3-b933c9f2-7ded-461d-8e05-c8425fd4090b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVmMjM0MWY4LWZjZjAtNDE1OC1iZTk0LTVjM2EzNzRlNzFlN1wvZDh3NWdqMy1iOTMzYzlmMi03ZGVkLTQ2MWQtOGUwNS1jODQyNWZkNDA5MGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2ZZoUSSs4XzKICmQuA5Irw2rSip47OVO9-CL7KVsMFI" />][reddit]
    <br><br>
    
     

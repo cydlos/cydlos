@@ -10,6 +10,7 @@
     [<img align="left" alt="Cyd | css3" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="css3" />][css3]
     [<img align="left" alt="Cyd | sass" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="sass" />][sass]
     [<img align="left" alt="Cyd | js" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="js" />][js]
+    [<img align="left" alt="Cyd | react" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="react" />][react]
     [<img align="left" alt="Cyd | webpack" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="webpack" />][webpack] 
     [<img align="left" alt="Cyd | yarn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" />][yarn]
     [<img align="left" alt="Cyd | node" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" />][node]
@@ -35,6 +36,7 @@
 [css3]: https://www.w3.org/TR/CSS/#css
 [sass]: https://sass-lang.com/
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[react]: https://react.dev
 [webpack]: https://webpack.js.org/ 
 [yarn]: https://yarnpkg.com/
 [node]: https://nodejs.org/

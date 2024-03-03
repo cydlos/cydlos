@@ -1,6 +1,7 @@
 ## My skills:
    [<img align="left" alt="Cyd | terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
    [<img align="left" alt="Cyd | vscode" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+   [<img align="left" alt="Cyd | pycharm" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />][pycharm]
    [<img align="left" alt="Cyd | ruby" width="22px" src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-plain.svg" />][ruby]
    [<img align="left" alt="Cyd | rails" width="22px" src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-plain.svg" />][rails]
    [<img align="left" alt="Cyd | python" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" />][python]
@@ -29,6 +30,7 @@
     
 [terminal]: https://www.zsh.org/
 [vscode]: https://code.visualstudio.com/
+[pycharm]: https://www.jetbrains.com/pycharm/
 [ruby]: https://www.ruby-lang.org/
 [rails]: https://rubyonrails.org/
 [python]: https://www.python.org/

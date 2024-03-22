@@ -28,6 +28,9 @@
 
    [<img align="left" alt="Cyd | instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" />][instagram]
    <br><br>
+
+## 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cydlos&layout=compact)
    
     
 [terminal]: https://www.zsh.org/

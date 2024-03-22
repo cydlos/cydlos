@@ -30,7 +30,7 @@
    <br><br>
 
 ## 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cydlos&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cydlos&hide_progress=true)
    
     
 [terminal]: https://www.zsh.org/

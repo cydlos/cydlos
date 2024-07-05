@@ -14,6 +14,7 @@
     [<img align="left" alt="Cyd | html5" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="html5" />][html5]
     [<img align="left" alt="Cyd | css3" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="css3" />][css3]
     [<img align="left" alt="Cyd | sass" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="sass" />][sass]
+    <br></br>
     [<img align="left" alt="Cyd | js" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="js" />][js]
     [<img align="left" alt="Cyd | react" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="react" />][react]
     [<img align="left" alt="Cyd | webpack" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="webpack" />][webpack] 

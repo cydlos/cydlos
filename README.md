@@ -12,9 +12,9 @@
    [<img align="left" alt="Cyd | sqlite" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sqlite]
     [<img align="left" alt="Cyd | postgre" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="28" height="28" alt="postgresql" />][postgre]
     [<img align="left" alt="Cyd | html5" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="html5" />][html5]
+        <br></br>
     [<img align="left" alt="Cyd | css3" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="css3" />][css3]
     [<img align="left" alt="Cyd | sass" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="sass" />][sass]
-    <br></br>
     [<img align="left" alt="Cyd | js" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="js" />][js]
     [<img align="left" alt="Cyd | react" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="react" />][react]
     [<img align="left" alt="Cyd | webpack" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="webpack" />][webpack] 

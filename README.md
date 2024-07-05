@@ -37,7 +37,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cydlos" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cydlos&layout=compact&hide_progress=true&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cydlos&layout=compact&hide_progress=true&langs_count=8&card_width=70" />
 </a>
   
 [terminal]: https://www.zsh.org/

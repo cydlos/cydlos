@@ -2,7 +2,7 @@
 <h1 align="center">CYD LOSEKANN</h1>
 <div align="center">
    <p align="center">
-    <a href="https://www.linkedin.com/in/cyd87/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3F3D56?style=for-the-badge&logo=linkedin&logoColor=pink" width="90"></a>
+    <a href="https://www.linkedin.com/in/cyd87/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3F3D56?style=for-the-badge&logo=linkedin&logoColor=lightskyblue" width="90"></a>
     <a href="https://www.instagram.com/cydlsk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-3F3D56?style=for-the-badge&logo=instagram&logoColor=pink" width="100"></a> </p>
 
 </div>
